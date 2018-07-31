@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2446,4 +2445,3 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 =======
 # simple-login-system
 Created with React
->>>>>>> 8f718ec459d7bb483dde7060b291866d104451cb
